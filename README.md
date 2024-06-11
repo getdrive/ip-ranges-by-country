@@ -17,6 +17,6 @@ Please wait../  IPv4-адреса для US:
 ...
 ```
 ```
-python script.py coutry_codes_list
+python script.py country_codes_list
 ```
 
