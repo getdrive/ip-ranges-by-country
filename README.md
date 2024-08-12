@@ -3,7 +3,7 @@
 - Скрипт для получения диапазона IP адресов по кодам стран<br/>
 
 ## Usage
-
+### Single country code
 ```
 python script.py US
 ```
@@ -16,6 +16,7 @@ Please wait../  IPv4-адреса для US:
 
 ...
 ```
+### List of coutry codes
 ```
 python script.py country_codes_list
 ```
